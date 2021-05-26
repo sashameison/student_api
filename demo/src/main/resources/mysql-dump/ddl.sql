@@ -1,0 +1,1 @@
+INSERT INTO student (id, name, course) values (default, 'Sasha', 3);
