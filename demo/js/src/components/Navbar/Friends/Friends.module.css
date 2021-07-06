@@ -1,0 +1,13 @@
+item .h1 {
+
+}
+
+.p {
+    padding: 2px;
+}
+
+.item li {
+    padding: 5px;
+    font-size: 20px;
+    color: white;
+}

@@ -1,0 +1,16 @@
+.header {
+    grid-area: h;
+    background-color: darkgrey;
+    border-radius: 15px;
+}
+
+.header p {
+    text-align: center;
+    font-size: 18px;
+    background-color: #61dafb;
+}
+
+.header img {
+    height: 50px;
+    padding-left: 20px;
+}

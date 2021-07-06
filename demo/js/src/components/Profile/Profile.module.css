@@ -1,0 +1,12 @@
+.content {
+    grid-area: c;
+    background-color: green;
+    border-radius: 10px;
+}
+
+/*#profile {*/
+/*    padding-top: 3px;*/
+/*    padding-left: 120px;*/
+/*    width: 250px;*/
+/*    height: 150px;*/
+/*}*/

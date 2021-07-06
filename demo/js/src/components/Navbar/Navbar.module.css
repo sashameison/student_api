@@ -1,0 +1,25 @@
+.navbar {
+    grid-area: n;
+    background-color: yellowgreen;
+    font-size: 25px;
+    color: white;
+    padding-left: 20px;
+    border-radius: 15px;
+
+}
+
+.item a {
+    text-decoration: none;
+    background-color: transparent;
+    color: black;
+}
+
+.item h1 {
+    color: dimgrey;
+    font-size: 30px;
+    padding: 5px;
+}
+
+.item a.activeLink {
+    color: gold;
+}

@@ -1,0 +1,18 @@
+.item {
+    color: #61dafb;
+    padding-left: 20px;
+}
+
+.item img {
+    height: 40px;
+    width: 50px;
+    margin-top: 10px;
+    border-radius: 30px;
+}
+
+.span {
+    margin-left: 20px;
+}
+
+
+

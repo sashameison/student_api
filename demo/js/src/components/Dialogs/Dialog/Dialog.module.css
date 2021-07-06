@@ -1,0 +1,13 @@
+
+
+.dialog a {
+    text-decoration: none;
+    color: #61dafb;
+
+}
+
+.dialog a.active {
+    color: deeppink;
+    font-size: 20px;
+}
+
